@@ -7,14 +7,14 @@
 <!-- Our organization focuses on practical applications and research in **[field/topic]**, driven by our passion for learning and innovation. -->
 
 ## Course Information
-- **Course Name**: AI and Cybersecurity
+- **Course Name**: Advanced Information System Security
 - **Course Abbreviation**: AISS
 - **University**: Politecnico di Torino
 
 ## Members
 
-| Name | GitHub | LinkedIn | Email |
-| ---- | ------ | -------- | ----- |
+| Name | GitHub | LinkedIn |
+| ---- | ------ | -------- |
 | Andrea Botticella | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/Botti01)       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrea-botticella-353169293/) |
 | Elia Innocenti | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/eliainnocenti) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/eliainnocenti/) |
 | Renato Mignone    | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/RenatoMignone) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/renato-mignone/) |
